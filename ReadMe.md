@@ -1,6 +1,6 @@
 # Message Generator
 **Description**
-Every time the program is run, a randomized quote out of three is output. 
+Every time the program is run, a randomized quote is output. 
 
 ## Project Objectives
 - Build a message generator program using JavaScript
