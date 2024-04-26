@@ -14,4 +14,4 @@ Every time the program is run, a randomized quote out of three is output.
 - Command Line
 
 ## Usage
-Simply log to the console the function call "TBD" and a new quote will be generated.
+Log the function call "TBD" to the console to generate a new quote.
