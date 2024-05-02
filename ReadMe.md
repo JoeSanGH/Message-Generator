@@ -1,5 +1,5 @@
 # Message Generator
-**Description**
+## Description
 Every time the program is run, a randomized quote is output. 
 
 ## Project Objectives
